@@ -1,0 +1,27 @@
+{
+    "name": "doom-one-theme",
+    "publisher": "L-Nafaryus",
+    "displayName": "doom-one-theme",
+    "description": "Color theme from Doom Emacs",
+    "version": "0.1.0",
+    "engines": {
+        "vscode": "^1.6.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Doom One",
+                "uiTheme": "vs-dark",
+                "path": "themes/doom-one-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/L-Nafaryus/doom-one-theme.git"
+    },
+    "dependencies": {}
+}
