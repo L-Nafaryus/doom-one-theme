@@ -1,7 +1,7 @@
 <div align="center">
 
 # Doom One Theme
-[Description](#description) • [Supported languages](#supported-languages) • [License](#license)
+[Description](#description) • [Supported languages](#supported-languages) • [License](#license) • [Install](https://marketplace.visualstudio.com/items?itemName=L-Nafaryus.doom-one-theme)
 
 ![Theme Screenshot](etc/screenshot.jpg)
 
